@@ -45,15 +45,3 @@ Flujo de prueba (rápido)
 4. En `Acerca` prueba "Volver" y "Volver al Inicio".
 5. Desde `Inicio` pulsa "Ver Contactos" para probar la lista y ver el detalle de un contacto.
 
-Notas y consejos
-
-- Si trabajas en Linux Mint, usa `nvm` para gestionar Node y evitar problemas de permisos con `npm`.
-- Si ves errores de módulos relacionados con React Navigation, ejecuta `npx expo install` para instalar las versiones compatibles con tu SDK.
-
-Repositorio remoto
-
-El proyecto ya está subido a GitHub: https://github.com/DmanBaires/MiPrimeraApp
-
-Contacto
-
-Si quieres que haga más mejoras (README más detallado, CI, screenshots, avatars remotos), dime y lo hago.
